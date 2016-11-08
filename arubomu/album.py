@@ -19,7 +19,7 @@ import re
 
 #from elementtree import ElementTree
 
-import strxtra
+# import strxtra
 
 from arubomu.common import SimpleAttr
 
