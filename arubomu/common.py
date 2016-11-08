@@ -16,8 +16,8 @@ import re
 import StringIO
 from types import UnicodeType
 
-from elementtree import ElementTree
-import elementtree_helpers
+# from elementtree import ElementTree
+# import elementtree_helpers
 
 
 xml_encoding = 'ISO-8859-1'
