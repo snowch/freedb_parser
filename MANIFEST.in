@@ -1,1 +1,1 @@
-recursive-include arubomu/*
+recursive-include arubomu *.py
