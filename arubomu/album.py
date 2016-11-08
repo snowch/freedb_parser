@@ -17,7 +17,7 @@ __author__ = "Martin Blais <blais@furius.ca>"
 import sys, os
 import re
 
-from elementtree import ElementTree
+#from elementtree import ElementTree
 
 import strxtra
 
