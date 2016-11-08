@@ -73,7 +73,8 @@ def parseText(text):
             (tag, no, content) = mo.groups()
             no = int(no)
             if no not in songs:
-                songs[no] = Song(no+1, '')
+                # songs[no] = Song(no+1, '')
+                songs[no] = Song(no+1)
             song = songs[no]
 
             if content:
