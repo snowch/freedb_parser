@@ -6,6 +6,6 @@ setup(
   author='Chris Snow',
   author_email='chsnow123@gmail.com',
   url='https://github.com/snowch/freedb_parser/',
-  packages=['arubomu'],
+  packages=['arubomu', 'arubomu.parsers'],
   install_requires=[],
 )
